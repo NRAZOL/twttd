@@ -1,3 +1,3 @@
-# the_way_to_the_dream
+# The_Way_To_The_Dream
 
 Начинаю решать задачки...
